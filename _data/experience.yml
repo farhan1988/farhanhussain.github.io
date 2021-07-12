@@ -3,17 +3,30 @@
 - company: DXC Technology
   position: Information Technology Specialist
   duration: Apr, 2017 &mdash; Present
-  summary: As an IT Developer, I am responsible for developing requirements or extending / altering existing Cloud Service Automation application. As we work on Agile Methodology, we analyze the requirements based on various factors of which some being severity & priority among others.<br /> <b>My activities in brief</b><ul></li><li>Design and develop Python Web API services.</li><li>Design and develop component driven Angular JS consumer for REST based applications.</li><li>Using Bootstrap for responsive web pages along with CSS for styling, icons and JavaScript snippets.</li><li>Creating Messaging Queues using Python Celery and the data provider as Redis server.</li><li>Creating Supervisor configuration files for services management in Linux (Centos 6 & 7).</li><li>Writing custom CRON jobs using Python and Celery.</li><li>Writing CI-CD pipelines using Jenkins. Integration of GitHub.</li><li>Using Nginx for reverse proxy & caching.</ul>
+  summary: As an IT Developer, I am responsible for developing requirements or extending / altering existing Cloud Service Automation application. As we work on Agile Methodology, we analyze the requirements based on various factors of which some being severity & priority among others.<br /><br /><b>My activities in brief</b><ul></li><li>Design and develop Python Web API services.</li><li>Design and develop component driven Angular JS consumer for REST based applications.</li><li>Using Bootstrap for responsive web pages along with CSS for styling, icons and JavaScript snippets.</li><li>Creating Messaging Queues using Python Celery and the data provider as Redis server.</li><li>Creating Supervisor configuration files for services management in Linux (Centos 6 & 7).</li><li>Writing custom CRON jobs using Python and Celery.</li><li>Writing CI-CD pipelines using Jenkins. Integration of GitHub.</li><li>Using Nginx for reverse proxy & caching.</ul>
 
 # IT Developer
 - company: Hewlett Packard Enterprise
   position: IT Developer
   duration:  Jan, 2017 &mdash; Apr, 2017
-  summary: As a member of Enterprise Cloud Service Automation team, my duties are to design, develop & deploy Cloud based solutions. Majority of which are the grouping of minor and major services into one automated system for use by both internal and external DevOps. </li><li>Design and develop Python Web API services.</li><li>Design and develop component driven Angular JS consumer for REST based applications.</li><li>Using Bootstrap for responsive web pages along with CSS for styling, icons and JavaScript snippets.</li><li>Creating Messaging Queues using Python Celery and the data provider as Redis server.</li><li>Creating Supervisor configuration files for services management in Linux (Centos 6 & 7).</li><li>Writing custom CRON jobs using Python and Celery.</li><li>Writing CI-CD pipelines using Jenkins. Integration of GitHub.</li><li>Using Nginx for reverse proxy & caching.</li><li>Consuming internal services such as AD / ED, Helion Openstack, HPE CSA, VMWare & among others.
+  summary: As a member of Enterprise Cloud Service Automation team, my duties are to design, develop & deploy Cloud based solutions. Majority of which are the grouping of minor and major services into one automated system for use by both internal and external DevOps. <br /><ul><li>Design and develop Python Web API services.</li><li>Design and develop component driven Angular JS consumer for REST based applications.</li><li>Using Bootstrap for responsive web pages along with CSS for styling, icons and JavaScript snippets.</li><li>Creating Messaging Queues using Python Celery and the data provider as Redis server.</li><li>Creating Supervisor configuration files for services management in Linux (Centos 6 & 7).</li><li>Writing custom CRON jobs using Python and Celery.</li><li>Writing CI-CD pipelines using Jenkins. Integration of GitHub.</li><li>Using Nginx for reverse proxy & caching.</li><li>Consuming internal services such as AD / ED, Helion Openstack, HPE CSA, VMWare & among others.</ul>
 
 
-# # Communications Coordinator
-# - company: Springfield Women & Children's Center
-#   position: Communications Coordinator
-#   duration:   Jun, 2008  &mdash; May, 2010
-#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Senior Software Engineer
+- company: TEKsystems
+  position: Senior Software Engineer
+  duration:   Sep, 2014  &mdash; Jan, 2017
+  summary: I was deputed to Hewlett-Packard Enterprise as contingent where I've developed .Net Web Applications. The applications include eCommerce which markets and sells IT Solutions and Offerings for internal teams who collaborate with Customers from other firms. Technologies such as C#, Angular and Web Api were used among others. I've contributed my skills and abilities to other teams by enhancing the application performance, changing design patterns & fixing bugs on both UI and back-end.
+
+# Principal Consultant
+- company: TEKsystems
+  position: Principal Consultant
+  duration:   Apr, 2014  &mdash; Sep, 2014
+  summary: Developing .Net Web Application and JS plugins for a Real Estate client from Canada.
+
+
+# Senior Programmer
+- company: Accenture
+  position: Senior Programmer
+  duration:   Jul, 2010  &mdash; Apr, 2014
+  summary: I was recruited in Accenture from campus and got trained as .NET developer in Green Field Training. Started career as Associated Software Engineer, worked on web application development on Microsoft SharePoint Office Server.<br /><br />Primary role as a MOSS 2007 / SharePoint 2010 and .NET developer, developing web-applications to market DRUGS for a Global Pharmaceutical Client, an US based Pharmaceutical.<br /><br />Developing and managing the primary web-application for business for AVANADE.
